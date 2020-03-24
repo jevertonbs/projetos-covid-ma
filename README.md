@@ -73,7 +73,7 @@ Fork para criar o projeto, e siga os tutoriais abaixo:
 > - Apague todo o conteudo anterior
 > - Apôs o título insira o (s)  Seguimentos de Trabalho, informado acima
 >
-> - Exemplo:
+> - Exemplo (README.md):
 >
 > #projeto 1
 >
