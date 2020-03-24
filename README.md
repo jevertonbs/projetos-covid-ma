@@ -49,6 +49,23 @@ Inicio: 23/03/2019
 - Peças Eletrônicas devem ser fáceis de encontrar na cidade. (exceto sensores)
 - Atuadores devem ser de fácil aquisição.
 - Peças MECÂNICAS Devem ser impressas em 3D (sem restrição de plástico)
+- Uso do mosquitto-MQTT
+- Uso do Json
+- WifiManager
+- Barato (abaixo de R$300  a unidade TODO o projeto)
+
+Fork para criar o projeto, e siga os tutoriais abaixo:
+
+## Os projetos devem apresentar os seguintes critérios (SOFTWARE)
+
+- Tempo máximo de execução dos protótipos: 2 semanas.
+- Plug in Play;
+- Fácil configuração;
+- Uso de Raspberry
+- Web e aplicações em NODEJS / NODE-RED
+- Uso do JSON
+- Segurança em primeiro lugar
+- Uso do mosquitto-MQTT
 - Barato (abaixo de R$300  a unidade TODO o projeto)
 
 Fork para criar o projeto, e siga os tutoriais abaixo:
