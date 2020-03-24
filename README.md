@@ -93,15 +93,17 @@ Fork para criar o projeto, e siga os tutoriais abaixo:
 > > > MONTAGEM
 > > >
 > > > DESENHOS
-> > >
-> > > HARDWARE
+> >
+> > HARDWARE
+> >
 > > > SRC
 > > >
 > > > IMAGENS
 > > >
 > > > PCB
-> > >
-> > > SOFTWARE
+> >
+> > SOFTWARE
+> >
 > > > SRC
 > > >
 > > > IMAGENS
