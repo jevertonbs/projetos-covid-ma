@@ -1,5 +1,9 @@
 # Respirador Automático IoT
 
+## Descrição
+
+### Funcionalidades
+
 ## Diagramas
 
 ### Mecânica
@@ -16,4 +20,6 @@
 
 ### Mecânico
 
-### Libs e créditos
+## Problemas
+
+## Libs e créditos
