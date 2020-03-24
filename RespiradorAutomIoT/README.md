@@ -1,3 +1,17 @@
-# TODO
+# Respirador Automático IoT
 
-![Alt Text](https://github.com/leandrolimapro/projetos-covid-ma/blob/master/respiradorautomiot/mec%c3%82nica/imagens/fluxograma%20respirador%20-%20raiot%20v1.jpg)
+## Hardware
+
+## Mecânica
+
+### Fluxograma da Mecânica
+
+![Alt Text](https://github.com/LeandroLimaPRO/projetos-covid-ma/blob/master/RespiradorAutomIoT/MEC%C3%82NICA/Imagens/Fluxograma%20Respirador%20-%20RAIOT%20V1.jpg?raw=true)
+
+## Lista de Materiais
+
+### Elétrico/eletrônico
+
+### Mecânico
+
+### Libs e créditos
