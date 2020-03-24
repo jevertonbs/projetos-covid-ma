@@ -7,6 +7,12 @@ Cada autor deverá ser devidamente creditado, pois foi necessário esforços, te
 Utilize o fork para criar o projeto, e siga os tutoriais abaixo:
 Inicio: 23/03/2019
 
+## Necessidades principais:
+
+### Respirador Automático
+
+### Ventilador Pulmonar Automático
+
 ## Seguimentos de trabalho:
 
 - Mecânica e design: 
