@@ -1,6 +1,5 @@
 # Desenvolvedores MA contra o COVID-19
 
-
 Os projetos aqui alimentados e usados são para fins de combate ao COVID-19, visando assim suprir a demanda no pico de propagação afim de suprir demandas do sistema hospitalar maranhense e/ou SUS.
 Cada autor deverá ser devidamente creditado, pois foi necessário esforços, tempo, conhecimento e dedicação de cada um.
 
@@ -15,11 +14,11 @@ Inicio: 23/03/2019
 
 ## Seguimentos de trabalho:
 
-- Mecânica e design: 
+- Mecânica e design:
 
 > Desenvolvimento da estrutura, motores, desenho (fusion 360 é o preferencial)
 
-- Hardware: 
+- Hardware:
 
 > Desenvolver placas, circuito impresso e programação do mesmo
 
@@ -38,13 +37,12 @@ Inicio: 23/03/2019
 - Uso racional de peças é essencial
 - Peças MECÂNICAS Devem ser impressas em 3D (sem restrição de plástico)
 - Todas as peças devem ser desenhadas com formas simples
-- Barato (abaixo de R$300 a unidade TODO o projeto)
+- Barato (abaixo de R\$300 a unidade TODO o projeto)
 
 ## Os projetos devem apresentar os seguintes critérios (HARDWARE)
 
 - Tempo máximo de execução dos protótipos: 2 semanas.
-- Plug in Play;
-- Fácil configuração;
+- Fácil configuração, instalação e uso;
 - Tensão de operação 5 - 12V na entrada.
 - Peças Eletrônicas devem ser fáceis de encontrar na cidade. (exceto sensores)
 - Atuadores devem ser de fácil aquisição.
@@ -52,26 +50,25 @@ Inicio: 23/03/2019
 - Uso do mosquitto-MQTT
 - Uso do Json
 - WifiManager
-- Barato (abaixo de R$300  a unidade TODO o projeto)
+- Barato (abaixo de R\$300 a unidade TODO o projeto)
 
 Fork para criar o projeto, e siga os tutoriais abaixo:
 
 ## Os projetos devem apresentar os seguintes critérios (SOFTWARE)
 
 - Tempo máximo de execução dos protótipos: 2 semanas.
-- Plug in Play;
-- Fácil configuração;
+- Fácil configuração, instalação e uso;
 - Uso de Raspberry
 - Web e aplicações em NODEJS / NODE-RED
 - Uso do JSON
 - Segurança em primeiro lugar
 - Uso do mosquitto-MQTT
-- Barato (abaixo de R$300  a unidade TODO o projeto)
+- Barato (abaixo de R\$300 a unidade TODO o projeto)
 
 Fork para criar o projeto, e siga os tutoriais abaixo:
 
 > - Apague todo o conteudo anterior
-> - Apôs o título insira o (s)  Seguimentos de Trabalho, informado acima
+> - Apôs o título insira o (s) Seguimentos de Trabalho, informado acima
 >
 > - Exemplo (README.md):
 >
@@ -80,33 +77,35 @@ Fork para criar o projeto, e siga os tutoriais abaixo:
 > ###hardware ###data de inicio
 >
 > descrição e especificação/ Lista de mamteriais
-> 
+>
 > Fluxograma
-> 
+>
 > Tutorial
 
 ## Organização das pastas
 
->RAIZ
->>MECÂNICA
->>>IMAGENS
->>>
->>>MONTAGEM
->>>
->>>DESENHOS
->>>
->>HARDWARE
->>>SRC
->>>
->>>IMAGENS
->>>
->>>PCB
->>>
->>SOFTWARE
->>>SRC
->>>
->>>IMAGENS
->>>
->>>TUTORIAIS
+> RAIZ
+>
+> > MECÂNICA
+> >
+> > > IMAGENS
+> > >
+> > > MONTAGEM
+> > >
+> > > DESENHOS
+> > >
+> > > HARDWARE
+> > > SRC
+> > >
+> > > IMAGENS
+> > >
+> > > PCB
+> > >
+> > > SOFTWARE
+> > > SRC
+> > >
+> > > IMAGENS
+> > >
+> > > TUTORIAIS
 
 ## Boa produção!
