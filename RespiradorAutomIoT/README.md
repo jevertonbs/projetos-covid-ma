@@ -24,4 +24,8 @@
 
 ## Problemas
 
+## Parceiros
+
+### Governo do Estado do Maranhão
+
 ## Libs e créditos
