@@ -6,7 +6,7 @@
 
 ## Diagramas
 
-![Alt Text](https://github.com/LeandroLimaPRO/projetos-covid-ma/blob/master/RespiradorAutomIoT/HARDWARE/Imagens/f2.jpg?raw=true)
+![Alt Text](https://github.com/LeandroLimaPRO/projetos-covid-ma/blob/master/RespiradorAutomIoT/HARDWARE/Imagens/f2.jpeg?raw=true)
 
 ### Eletrônico
 
